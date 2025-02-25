@@ -41,7 +41,6 @@
   ],
   "main": "main.js",
   "types": "./interface.d.ts",
-  "packageManager": "pnpm@9.15.6",
   "engines": {
     "node": ">=12"
   },
